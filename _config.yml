@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hua Huang / PhD student in Machine Learning"
+title                    : "Hua Huang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
