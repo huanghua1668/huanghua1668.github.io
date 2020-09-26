@@ -17,18 +17,15 @@ Education
 
 Work experience
 ======
-* May 2020 - Aug 2020: Machine Learning Reseach Intern
-  * Kwai.inc
+* May 2020 - Aug 2020: Machine Learning Reseach Intern, Kwai.inc
   * Ads ranking
   * E-commerce ads content understanding (Scene Text Recoginition with deep learning)
 
-* May 2019 - Aug 2019: SDE intern
-  * Weride.ai
+* May 2019 - Aug 2019: SDE intern, Weride.ai
   * Designed an intelligent human driver agent which has multiple behavioral intentions
   * Prototyped the application of reinforcement learning algorithm (DP, DQN) to solve lane change problem for Autonomous Vehicle, achieved zero collision out of 1 million episode of lane changes
   
-* June 2017 - Aug 2017: Computational Science Summer Student Internship (NSF Mathematics Science Graduate Internship)
-  * Lawrence Berkeley National Laboratory
+* June 2017 - Aug 2017: Computational Science Summer Student Internship (NSF Mathematics Science Graduate Internship), Lawrence Berkeley National Laboratory
   * Developed code based on AMReX, which is a massively parallel adaptive mesh refinement framework, to solve wave equations in C++ and Fortran
   * Added node-level parallelism with a MPI plus Open MP approach. Improved thread scalability by experimenting the combination of MPI tasks and threads, achieved 1.5x speed up compared with pure MPI approach
   
