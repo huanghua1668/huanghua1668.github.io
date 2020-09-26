@@ -1,6 +1,6 @@
 ---
 title: "Playing Atari Games with Hierarchical Reinforcement Learning"
-excerpt: "With options(i.e., multipe step actions) learned from manuel book, hierarchical reinforcement learning achive human-level learning efficiency and state-of-the-art performance. from<br/><img src='/images/500x300.png'>"
+excerpt: "With options(i.e., multipe step actions) learned from manual book, hierarchical reinforcement learning achieve human-level learning efficiency and state-of-the-art performance. from<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
