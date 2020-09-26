@@ -8,4 +8,4 @@ date: 2018-09-01
 location: "Tallahassee, FL"
 ---
 
-Solo instructor.
+Solo instructor for MAC 1140.
