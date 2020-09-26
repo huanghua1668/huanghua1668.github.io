@@ -11,30 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Aerospace Engineering, Xi'an Jiao Tong University, 2010
+* M.S. in Aerospace Engineering, Shanghai Jiao Tong University, 2013
+* Ph.D in Applied and Computational Mathematics, Florida State University, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2020 - Aug 2020: Machine Learning Reseach Intern
+  * Kwai.inc
+  * Ads ranking
+  * E-commerce ads content understanding (Scene Text Recoginition with deep learning)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2019 - Aug 2019: SDE intern
+  * Weride.ai
+  * Designed an intelligent human driver agent which has multiple behavioral intentions
+  * Prototyped the application of reinforcement learning algorithm (DP, DQN) to solve lane change problem for Autonomous Vehicle, achieved zero collision out of 1 million episode of lane changes
+  
+* June 2017 - Aug 2017: Computational Science Summer Student Internship (NSF Mathematics Science Graduate Internship)
+  * Lawrence Berkeley National Laboratory
+  * Developed code based on AMReX, which is a massively parallel adaptive mesh refinement framework, to solve wave equations in C++ and Fortran
+  * Added node-level parallelism with a MPI plus Open MP approach. Improved thread scalability by experimenting the combination of MPI tasks and threads, achieved 1.5x speed up compared with pure MPI approach
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learnin
+  * Deep Learning (CNN, RNN)
+  * Reinforcement Learning
+* CFA
 
 Publications
 ======
