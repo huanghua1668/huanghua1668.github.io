@@ -1,5 +1,5 @@
 ---
-title: "Indirect combustion	noise	generation in	a	supersonic nozzle"
+title: "Indirect noise generation"
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/noise
