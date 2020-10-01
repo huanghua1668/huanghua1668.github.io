@@ -10,4 +10,6 @@ We experimentally demonstrate that by decomposing the learning task into sub-sys
 for the temporally extended planning, the learning process can be dramatically accelerated.
 [Download paper here](https://arxiv.org/abs/1909.12465)
 <br/><img src='/images/learning_curve_tennis.png'>
+Agent(orange one in the video) trained with hierarchical reinforcement learning playing Tennis
+<br/><img src='/images/tennis.mp4'>
 
