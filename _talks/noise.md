@@ -14,6 +14,6 @@ Generate random density perturbations from frequency spectra with Fourier transf
 [More information here](https://siamseas.fsu.edu/2017/events/programSIAM-SEAS.pdf)
 
 ![Frequency spectra](/images/spectra.tif)
-![Random density perturbation](images/entropy_2d.tiff)
+![Random density perturbation](/images/entropy_2d.tiff)
 <br/><img src='/images/spectra.tif'>
 <br/><img src='/images/entropy_2d.tiff'>
