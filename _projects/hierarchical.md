@@ -12,5 +12,5 @@ for the temporally extended planning, the learning process can be dramatically a
 <br/><img src='/images/learning_curve_tennis.png'>
 
 Agent(orange one in the video) trained with hierarchical reinforcement learning playing Tennis
-<br/><img src='/images/tennis.mp4'>
+<br/><img src='/images/tennis.gif'>
 
