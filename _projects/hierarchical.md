@@ -3,10 +3,7 @@ title: "Playing Atari Games with Hierarchical Reinforcement Learning"
 excerpt: "With options (i.e., multipe step actions) learned from manual book, hierarchical reinforcement learning
 achieve human-level learning efficiency and state-of-the-art performance in playing challenge games, e.g., Tennis,
 Pong, etc. 
-<p float="left">
-  <img src='/images/pong.png' width="100" />
-  <img src='/images/tennis.png' width="100" /> 
-</p>"
+  ![](/images/pong.png) | ![](/images/tennis.png) "
 collection: projects
 ---
 
