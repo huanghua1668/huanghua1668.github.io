@@ -2,11 +2,7 @@
 title: "Playing Atari Games with Hierarchical Reinforcement Learning"
 excerpt: "With options (i.e., multipe step actions) learned from manual book, hierarchical reinforcement learning
 achieve human-level learning efficiency and state-of-the-art performance in playing challenge games, e.g., Tennis,
-Pong, etc. 
-<p align="center">
-<img src='/images/pong.png'>
-<img src='/images/tennis.png'>
-</p>"
+Pong, etc. <br/> <img src='/images/tennis.png'>"
 collection: projects
 ---
 
@@ -16,5 +12,11 @@ for the temporally extended planning, the learning process can be dramatically a
 <br/><img src='/images/learning_curve_tennis.png'>
 
 Agent(orange one in the video) trained with hierarchical reinforcement learning playing Tennis
-<br/><img src='/images/tennis.gif'>
+<!-- blank line -->
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="/images/tennis.png">
+    <source src="/images/tennis.mp4" type="video/mp4">
+  </video>
+</figure>
+<!-- blank line -->
 
