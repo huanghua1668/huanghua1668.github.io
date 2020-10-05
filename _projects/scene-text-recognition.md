@@ -1,7 +1,7 @@
 ---
-title: "Scene text recognition"
-excerpt: "Detect, extract, and recoginise texts in advertisement picturtes. The recoginized text will be feeded to
-advertisement conversion prediction machine learning models. <br/><img src='/images/scene.png' width='500'>"
+title: "Scene Text Recognition"
+excerpt: "Detect, extract, and recognise texts in advertisement pictures. The recognized text will be feed to
+advertisement conversion prediction machine learning models. <br/><img src='/images/scene_word.png' width='500'>"
 collection: projects
 ---
 
@@ -17,4 +17,7 @@ to the text instance with arbitrary shape.
 sequence to a bidirectional LSTM. It can handle different lengths of texts and does not require character- or word-level
 annotation in training with the help of CTC loss. [More info for CTC loss](https://www.cs.toronto.edu/~graves/icml_2006.pdf).
 <br/><img src='/images/crnn.png' width='500'>
+
+Demo results:
+
 
