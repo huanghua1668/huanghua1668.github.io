@@ -75,7 +75,7 @@ A network of:
  * Output layer with 2 heads.
  
  
- ### Results
+### Results
  The model has obtained accuracy 0.833 and AUC of 0.99 when $\alpha=0.325$, which is better than the state-of-the-art 
  result, i.e., result using [deterministic uncertainty quantification (DUQ)](https://arxiv.org/abs/2003.02037), which
  has best result of accuracy 0.824 and AUC of 0.98. Another popular method in detecting OOD samples, deep ensemble, 
