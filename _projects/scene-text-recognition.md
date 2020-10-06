@@ -18,7 +18,7 @@ sequence to a bidirectional LSTM. It can handle different lengths of texts and d
 annotation in training with the help of CTC loss. [More info for CTC loss](https://www.cs.toronto.edu/~graves/icml_2006.pdf).
 <br/><img src='/images/crnn.png' width='500'>
 
-Demo results:
+Demo:
 <br/><img src='/images/scene_word.png' width='800'>
 <br/><img src='/images/scene_word2.png' width='800'>
 
