@@ -19,6 +19,7 @@ many others, but it's overconfident in its application
 In out-of-distribution (OOD) samples, it will still confidently output a prediction, i.e., it does 
 not know when it's unknown.
 <br/><img src='/images/uncertainty.png' width='500'>
+
 A Multi-layer Perceptron (MLP) Neural Network (NN) is trained on the Moon dataset. As we can see in the figure, 
 NN has very high confidence in OOD samples far from its training dataset. 
 
@@ -30,8 +31,8 @@ should be taken.
 We propose the Compact Support Neural Network (CSNN), in which neuron will have a compact support and NN can output
 zero confidence for OOD samples. The activation of neuron is defined as
 \begin{eqnarray}
-	f(\bm x)&=&\max(R^2-||\bm x-\bm \mu||^2,0) \nonumber \\ 
-	    &=&\max(\alpha(R^2-\bm x^T\bm x-\bm \mu^T\bm \mu)+2\bm \mu^T\bm x,0)
+	f( x)&=&\max(R^2-|| x- \mu||^2,0) \nonumber \\ 
+	    &=&\max(\alpha(R^2- x^T x- \mu^T \mu)+2 \mu^T x,0)
 \end{eqnarray}
 When $\alpha=0$, it will be a standard ReLU neuron, and when $\alpha>0$, it will be a
 Compact Support Neuron. It can be shown that the neuron only has support within a ball of 
@@ -45,6 +46,7 @@ and center
 \end{equation}
 
 <br/><img src='/images/csnn.png' width='500'>
+
 As we can see in the figure, with compact support, the NN output almost 0 confidence when samples are far from training
 dataset.
 
@@ -60,6 +62,7 @@ brake for the lag vehicle in target lane.
 * Adversarial. Ego changes lane and causes a harsh brake for the lag vehicle in target lane. 
 * Adversarial. Ego aborts the current window due to competition and chooses to change lane in the next window.
 <br/><img src='/images/us80.png' width='500'>
+
 We then generate the OOD samples with uniform sampling. Overall, 153509 OOD samples are generated and there are 
 1584 in-distribution samples.
 
@@ -70,6 +73,7 @@ A network of:
  they have 0 mean and 1 standard deviation.
  * A fully connected layer with 64 Compact Support Neurons with hyperparameter $r=1$.
  * Output layer with 2 heads.
+ 
  
  ### Results
  The model has obtained accuracy 0.833 and AUC of 0.99 when $\alpha=0.325$, which is better than the state-of-the-art 
