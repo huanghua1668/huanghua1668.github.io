@@ -19,5 +19,6 @@ annotation in training with the help of CTC loss. [More info for CTC loss](https
 <br/><img src='/images/crnn.png' width='500'>
 
 Demo results:
-
+<br/><img src='/images/scene_word.png' width='800'>
+<br/><img src='/images/scene_word2.png' width='800'>
 
