@@ -9,7 +9,7 @@ collection: projects
 ---
 ## Introduction
 The current mainstream Planning & Control (P&C) algorithm for Autonomous Vehicle (AV) is rule-based. There are 
-lots of redundancy in the system and AV is overly defensive in scenarios need interaction with other road users, i.e.,
+lots of redundancy in the system and AV is overly defensive in scenarios need interaction with other road users, e.g.,
 lane change, merge, unprotected left turn, roundabouts, etc. Indecisiveness will confuse other road users and block 
 traffic. We propose to use data-driven approach to learn the human driver's mental model in lane change decision making.
 
@@ -24,8 +24,8 @@ A Multi-layer Perceptron (MLP) Neural Network (NN) is trained on the Moon datase
 NN has very high confidence in OOD samples far from its training dataset. 
 
 If we want to apply NN to P&C of AV industry, we must be able to assess the confidence in our prediction, as one 
-decision can be a matter of life and death. When th confidence is low and uncertainty is high, a conservative action 
-should be taken. 
+decision can be a matter of life and death. When the confidence is low and uncertainty is high, a conservative action 
+should be pursued. 
 
 ## Compact Support Neural Network (CSNN)
 We propose the Compact Support Neural Network (CSNN), in which neuron will have a compact support and NN can output
@@ -57,7 +57,7 @@ We train the CSNN algorithm on the
 [NGSIM I80 dataset](https://www.fhwa.dot.gov/publications/research/operations/06137/index.cfm), which is a 
 45-minute video recoding of a 500-meter long highway. We extracted all the lane changes and labeled them
 into 3 categories:
-* Cooperative. Ego (i.e., the agent which carryes out lane change) changes lane and does not cause a harsh 
+* Cooperative. Ego (i.e., the agent which carries out lane change) changes lane and does not cause a harsh 
 brake for the lag vehicle in target lane.
 * Adversarial. Ego changes lane and causes a harsh brake for the lag vehicle in target lane. 
 * Adversarial. Ego aborts the current window due to competition and chooses to change lane in the next window.

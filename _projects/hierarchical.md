@@ -1,6 +1,6 @@
 ---
 title: "Playing Atari games with Hierarchical Reinforcement Learning"
-excerpt: "With options (i.e., multipe step actions) learned from manual book, hierarchical reinforcement learning
+excerpt: "With options (i.e., multiple step actions) learned from manual book, hierarchical reinforcement learning
 achieve human-level learning efficiency and state-of-the-art performance in playing challenge games, e.g., Tennis,
 Pong, etc. <br/> <img src='/images/tennis.png' width='500'>"
 collection: projects

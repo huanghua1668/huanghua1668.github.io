@@ -17,9 +17,9 @@ Education
 
 Work experience
 ======
-* May 2020 - Aug 2020: Machine Learning Reseach Intern, Kwai.inc
+* May 2020 - Aug 2020: Machine Learning Research Intern, Kwai.inc
   * Ads ranking on video-sharing app with 200 million DAU.
-  * E-commerce ads content understanding (Scene Text Recoginition with deep learning)
+  * E-commerce ads content understanding (Scene Text Recognition with deep learning)
 
 * May 2019 - Aug 2019: SDE intern, Weride.ai
   * Designed an intelligent human driver agent which has multiple behavioral intentions
@@ -34,7 +34,7 @@ Research experience
 * Sep 2017 - Present: Research Assistant, Florida State University
   * Extracted and labeled 120000 vehicle trajectories with a total driven distance of 45000km.
   * Trained Logistic Regression/Support Vector Machine/LSTM models to predict human intentions by learning from human driving dataset. Achieved 87.8% accuracy in predicting cooperative/adversarial behavior in lane change.
-  * Trained a Compact Support Neural Network (CSNN) to detect long-tail rare events. CSNN obtained similar accuracy in classifying in-distribution samples compared with normal neuron based network, and achieved AUC of 0.98 in detecting out-of-distribution samples.
+  * Trained a Compact Support Neural Network (CSNN) to detect long-tail rare events. CSNN obtained similar accuracy in classifying in-distribution samples compared with normal neuron based network, and achieved AUC of 0.99 in detecting out-of-distribution samples.
  
 Skills
 ======
