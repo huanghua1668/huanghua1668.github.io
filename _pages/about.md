@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student majored in Applied and Computational Mathematics at Florida State University.  
-I work on machine learning under the supervision of [Dr.Barbu](https://ani.stat.fsu.edu/~abarbu/) and focus on the 
+I am currently a PhD student majored in Applied and Computational Mathematics at Florida State University. I work on 
+machine learning under the supervision of [Dr. Barbu](https://ani.stat.fsu.edu/~abarbu/) and focus on the 
 application of deep learning to Self-driving car, Advertisement and 
 E-commerce. I internshiped at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/) and worked on high 
 performance computing in 2017. I also internshiped at [Weride.ai](https://www.weride.ai/) and explored the 
