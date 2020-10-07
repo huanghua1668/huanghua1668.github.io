@@ -13,6 +13,7 @@ Generate random density perturbations from frequency spectra with Fourier transf
 
 With spectra
 <br/><img src='/images/spectra.png' width='500'>
+
 Generated 3D entropy blobs.
 
 <!-- blank line -->
