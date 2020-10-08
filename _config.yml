@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hua Huang"
-  avatar           : "profile.png"
+  avatar           : "/images/profile.png"
   bio              : "PhD student in Machine Learning"
   location         : "Tallahassee, FL"
   employer         :
@@ -185,7 +185,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
