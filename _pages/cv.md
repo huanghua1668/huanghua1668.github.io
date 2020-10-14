@@ -38,10 +38,11 @@ Research experience
  
 Skills
 ======
-* Machine Learnin
-  * Deep Learning (CNN, RNN)
+* Machine Learnin (Pytorch, Tensorflow)
+  * Deep Learning (CNN, RNN) 
   * Reinforcement Learning
 * CFA
+* Programming (C++, Python, SQL)
 
 Publications
 ======
