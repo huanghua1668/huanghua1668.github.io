@@ -39,9 +39,9 @@ Research experience
   * Extracted and labeled 120000 vehicle trajectories with a total driven distance of 45000km
   * Trained Logistic Regression/Support Vector Machine/LSTM models to predict human intentions by learning from human 
   driving dataset. Achieved 87.8% accuracy in predicting cooperative/adversarial behavior in lane change
-  * Trained a Compact Support Neural Network (CSNN) to detect long-tail rare events. CSNN obtained similar accuracy in 
-  classifying in-distribution samples compared with normal neuron based network, and achieved AUC of 0.99 in detecting
-   out-of-distribution samples
+  * Trained a Compact Support Neural Network (CSNN) to quantify uncertainty and detect long-tail rare events. CSNN 
+  obtained similar accuracy in classifying in-distribution samples compared with normal neuron based network, and 
+  achieved AUC of 0.99 in detecting out-of-distribution samples
  
 Skills
 ======

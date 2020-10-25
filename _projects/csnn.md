@@ -59,12 +59,15 @@ We train the CSNN algorithm on the
 into 3 categories:
 * Cooperative. Ego (i.e., the agent which carries out lane change) changes lane and does not cause a harsh 
 brake for the lag vehicle in target lane.
+<br/><img src='/images/lc_coop.png' width='500'>
 * Adversarial. Ego changes lane and causes a harsh brake for the lag vehicle in target lane. 
+<br/><img src='/images/lc_adv.png' width='500'>
 * Adversarial. Ego aborts the current window due to competition and chooses to change lane in the next window.
-<br/><img src='/images/us80.png' width='500'>
+<br/><img src='/images/lc_adv_merge_after.png' width='500'>
 
 We then generate the OOD samples with uniform sampling. Overall, 153509 OOD samples are generated and there are 
 1584 in-distribution samples.
+<br/><img src='/images/us80.png' width='500'>
 
 ### Model
 A network of:
